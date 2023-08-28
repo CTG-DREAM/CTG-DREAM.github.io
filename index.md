@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
+Testing my info
 
 ## About My Advisor
 
