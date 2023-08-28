@@ -76,5 +76,5 @@ exclude:
 
 theme: minima #jekyll-theme-cayman
 
-#minima:
-  #skin: dark
+minima:
+  skin: dark
