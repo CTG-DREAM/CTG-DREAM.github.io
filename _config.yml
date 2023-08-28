@@ -73,3 +73,6 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+
+minima:
+  skin: dark
