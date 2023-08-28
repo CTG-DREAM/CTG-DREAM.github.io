@@ -9,6 +9,7 @@ title: DREAM Project Site
 ## About Me
 
 Undergraduate: B.S. Nuclear Energy Engineering Technology from the Thomas Edison State University in 2015
+
 Graduate:  MS in Artificial Intelligence at DePaul University. I anticipate graduating in the spring of 2024.
 
 
