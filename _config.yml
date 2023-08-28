@@ -74,7 +74,7 @@ exclude:
   - README.md
   - CNAME
 
-theme: minima #jekyll-theme-cayman
+theme: jekyll-theme-minima #jekyll-theme-cayman
 
 minima:
   skin: dark
