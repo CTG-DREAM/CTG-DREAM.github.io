@@ -32,7 +32,11 @@ Dr. Nazli Siasi is an assistant professor at the School of Computing in the Coll
 
 ## About My Project
 
-Project description goes here.
+### Project Timeline
+
+A Rough timeline of the project
+
+![timeline of the project](images/Timeline.png)
 
 [My Final Report](files/finalreport.pdf)
 
