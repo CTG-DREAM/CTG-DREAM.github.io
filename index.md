@@ -18,7 +18,7 @@ I also spent some time in the US Navy as a second class petty officer (MM2/SS) a
 
 ## About My Advisor
 ### **Advisor: Dr. Nazli Siasi**
-(/images/NS_headshot.jpg)
+(assests/images/NS_headshot.jpg)
 
 Dr. Nazli Siasi is an assistant professor at the School of Computing in the College of Computing and Digital Media. Before joining DePaul, she worked as an assistant professor of cybersecurity at Christopher Newport University in Virginia. She earned her Ph.D. and M.S. degrees in electrical engineering with focus on networks and security from the University of South Florida in 2020. Prior to that she received her M.S. degree from Amirkabir University of Technology and B.S. degree from Tabriz University. Her research interests include edge/fog computing, network virtualization, blockchain, and cybersecurity
 
