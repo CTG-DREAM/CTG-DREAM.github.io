@@ -34,7 +34,9 @@ Dr. Nazli Siasi is an assistant professor at the School of Computing in the Coll
 
   * IEEE, ACM
 
-## About My Project:  Optimizing target coverage utilizing federated reinforcement learning
+## About My Project:  
+
+## Optimizing target coverage utilizing federated reinforcement learning
 
 ### Description
 Our project is to optimize target coverage using a federated learning model leveraging reinforcement learning agents at the sensor level. This has applications in security, network rf coverage, and traffic tracking. Specifically, we are applying this federated reinforcement learning to traffic modeling in an effort to optimize coverage of all targets.
