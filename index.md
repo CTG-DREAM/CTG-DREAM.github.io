@@ -40,7 +40,7 @@ Dr. Nazli Siasi is an assistant professor at the School of Computing in the Coll
 
 A Rough timeline of the project
 
-![timeline of the project](images/Timeline2.png)
+![timeline of the project](images/Timeline3.png)
 
 [My Final Report](files/finalreport.pdf)
 
