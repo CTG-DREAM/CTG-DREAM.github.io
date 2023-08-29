@@ -8,7 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
+### Education
+
 I am currently a graduate student at DePaul University pursuing an MS in Artificial Intelligence. I anticipate graduating in late spring of 2024. My undergraduate was a BS in Nuclear Energy Engineering Technology at Thomas Edison State University. 
+
+### Profesional Experience 
 
 I am working at General Electric as a commercial & risk manager in the nuclear power division. Some of my previous roles have been power delivery field engineer, motor & generator specialist, project manager, commercial manager (telecommunications), and engineering manager.
 
