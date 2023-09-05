@@ -46,7 +46,7 @@ Our project is to optimize target coverage using a federated learning model leve
 
 A Rough timeline of the project
 
-![timeline of the project](images/Timeline3.png | width=500)
+![timeline of the project](images/Timeline3.png | width=500px)
 
 [My Final Report](files/finalreport.pdf)
 
