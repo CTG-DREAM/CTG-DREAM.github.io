@@ -48,10 +48,6 @@ A Rough timeline of the project
 
 ![timeline of the project](images/Timeline3.png)
 
-![img|500x250](images/Timeline3.png)
-
-<img width="250" height="250" scr='[https://raw.githubusercontent.com/CTG_DREAM/master/images/Timeline3.png](https://github.com/CTG-DREAM/CTG-DREAM.github.io/blob/master/images/Timeline3.png?raw=true)https://github.com/CTG-DREAM/CTG-DREAM.github.io/blob/master/images/Timeline3.png?raw=true'>
-
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
