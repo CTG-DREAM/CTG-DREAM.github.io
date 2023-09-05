@@ -48,7 +48,9 @@ A Rough timeline of the project
 
 ![timeline of the project](images/Timeline3.png)
 
-![img|500x250](images/Timeline3.png)
+#![img|500x250](images/Timeline3.png)
+
+<img width="250" height="250" scr='images/Timeline3.png'>
 
 [My Final Report](files/finalreport.pdf)
 
